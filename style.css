@@ -1,0 +1,33 @@
+body {
+        height: 100vh;
+        background-color: #945c83;
+}
+.container {
+    margin-top: 2rem;
+}
+.navbar {
+    margin-bottom: 1rem;
+}
+.card-img-top {
+    height: 200px;
+}
+.name, .quote {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+.alert {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: rgb(80, 77, 77);
+    color: white;
+}
